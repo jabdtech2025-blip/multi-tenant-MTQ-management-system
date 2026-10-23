@@ -1,0 +1,10 @@
+{
+  "description": "Manage multi-tenant Qur’an recitation competitions with tools for participant tracking, question banks, scoring, and real-time judge assessments.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
